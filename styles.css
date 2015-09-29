@@ -763,6 +763,6 @@ textarea{
 
 @media (min-width: 768px) {
   .mobile_menu {
-    display: none;
+    display: none!important;
   }
 }

@@ -203,40 +203,6 @@
 					</div-->
 					<div class="showcase">
 						<iframe class="video" id="player" src="https://www.youtube.com/embed/RSqB3hhINyg?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
-						<!--script>
-      // 2. This code loads the IFrame Player API code asynchronously.
-      var tag = document.createElement('script');
-
-      tag.src = "https://www.youtube.com/iframe_api";
-      var firstScriptTag = document.getElementsByTagName('script')[0];
-      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-      // 3. This function creates an <iframe> (and YouTube player)
-      //    after the API code downloads.
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player', {
-          videoId: 'RSqB3hhINyg',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
-      }
-
-			var myPlayerState;
-      $(".link").click(function(){
-
-				if (myPlayerState == 1){
-  				player.pauseVideo;
-				};
-			};
-
-    </script-->
-
-
-
-
 						<p class="runtime">Runtime 1:37</p>
 					</div>
 					<div class="clear"></div>
