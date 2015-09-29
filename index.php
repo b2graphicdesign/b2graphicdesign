@@ -154,7 +154,7 @@
 						<p class="tags">Motion Graphics, Illustration</p>
 	        </div-->
           <div class="showcase">
-						<iframe class="video" src="https://www.youtube.com/embed/dohPb30LVvk" frameborder="0" allowfullscreen></iframe>
+						<iframe class="video" src="https://www.youtube.com/embed/dohPb30LVvk?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 						<p class="runtime">Runtime 1:23</p>
           </div>
           <div class="clear"></div>
@@ -182,9 +182,9 @@
 							<img src="images/third_cardf.jpg" />
 							<img src="images/third_cardb.jpg" />
 						</div>
-						<iframe class="video" src="https://www.youtube.com/embed/OZw6R92bufo" frameborder="0" allowfullscreen></iframe>
+						<iframe class="video" src="https://www.youtube.com/embed/OZw6R92bufo?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 						<p class="runtime">Runtime 0:28</p>
-						<iframe class="video" src="https://www.youtube.com/embed/IdFynv10H5E" frameborder="0" allowfullscreen></iframe>
+						<iframe class="video" src="https://www.youtube.com/embed/IdFynv10H5E?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 						<p class="runtime">Runtime 4:06</p>
           </div>
           <div class="clear"></div>
